@@ -29,15 +29,14 @@ function Artwork() {
              <div className="flex flex-col bg-[#38464B] shadow-2xs  ">
                <div className="p-4 md:p-10">
                  <h3 className="text-lg lg:text-left font-bold text-center text-[#ff5940] pb-4 dark:text-white">
-                    Fashion Boutique WordPress
+                    AzertType
                  </h3>
                  <p className="mt-2 lg:text-left text-gray-100 text-center dark:text-neutral-400">
-                 Le site intègre les principales fonctionnalités d'une boutique en ligne, notamment : Un thème installé,
-                 Les configurations de base faite, Les pages (Accueil, À propos, Nos actualités, Contact). Un menu de navigation fonctionnel. Le logo de Fashion sur l'entête, Les extensions standard installé et enfin
-                 L'icône de de la boutique Fashion sur les onglets de navigation sur les pages qui affichent le site.
+                 Cette petite application permet aux utilisateurs d'ameliorer leur capacité de saisie sur un clavier. Le jeu propose des mots ou des phrases selon le choix de l'utilisateur tout en affichant le score et donne enfin la possibilité aux utilisateur de partager son score
+                     avec ses amis
                  </p>
-                 <a target="_blank" className="mt-8 lg:inline-flex flex justify-center items-center gap-x-1 text-sm font-bold bg-[#ff5940] p-4 hover:bg-orange-800 transition duration-300 ease-in-out " href="https://dev-fashion-akasha.pantheonsite.io/">
-                   VISITER LE SITE
+                 <a target="_blank" className="mt-8 lg:inline-flex flex justify-center items-center gap-x-1 text-sm font-bold bg-[#ff5940] p-4 hover:bg-orange-800 transition duration-300 ease-in-out " href="https://azert-type-js-t266.vercel.app/">
+                   COMMENCER LE JEU
                  </a>
                </div>
              </div>
