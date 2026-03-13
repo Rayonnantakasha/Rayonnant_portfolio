@@ -16,6 +16,7 @@ function Technology() {
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">JavaScript</span>
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">TypeScript</span>
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">React</span>
+                 
                 </div>
                 <div className="pb-8 flex flex-wrap justify-center lg:justify-center gap-4">
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">Node JS</span>
@@ -23,6 +24,7 @@ function Technology() {
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">MySQL</span>
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">PostgreSQL</span>
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">WordPress</span>
+                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">NextJS</span>
                 </div>
                 <div className="pb-8 flex flex-wrap justify-center lg:justify-center gap-4">
                   <span className="bg-[#38464B] text-white shadow-xl px-4 py-2 rounded-full text-sm font-semibold transition duration-300 ease-in-out hover:-translate-y-1 hover:shadow-2xl hover:bg-slate-600">Tailwind</span>

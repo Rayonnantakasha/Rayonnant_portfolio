@@ -8,7 +8,7 @@ function HeroSection() {
        <div className="flex flex-col lg:flex-row items-center justify-between px-6 lg:px-32">
          <div className='text-center lg:text-left flex flex-col lg:pt-16 items-center lg:items-start'>
             <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl text-outline-white font-black">Je suis</h2>
-            <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl font-black">Devellopeur</h2>
+            <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl font-black">Devellopeur </h2>
             <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl font-black text-[#ff5940]">Fullstack</h2>
             <p className="lg:w-[60%] md:w-[70%] w-64 lg:mx-0 lg:text-left mx-auto text-center lg:text-xl pt-4">Entre logique et créativité, je bâtis des interfaces qui parlent autant aux humains qu’aux machines</p>
             <div className="pt-12 flex flex-col items-center lg:flex-row lg:items-center lg:justify-start lg:gap-4">
@@ -17,7 +17,7 @@ function HeroSection() {
                 <span className="font-bold">ECRIVEZ-MOI</span>
               </button>
            </a>
-           <a href="/CV_Rayonnant_Nyonsa.pdf" target="_blank" rel="noopener" className="text-[#ff5940] lg:pt-0 pt-8 font-bold flex items-center gap-1 hover:text-white transition duration-300 ease-in-out">
+           <a href="public/CV_ Rayonnant_Nyonsa.pdf" target="_blank" rel="noopener" className="text-[#ff5940] lg:pt-0 pt-8 font-bold flex items-center gap-1 hover:text-white transition duration-300 ease-in-out">
                MON CV
              <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" 
               role="img" className="iconify iconify--iconoir" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" 

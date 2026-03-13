@@ -32,8 +32,9 @@ function Artwork() {
                     AzertType
                  </h3>
                  <p className="mt-2 lg:text-left text-gray-100 text-center dark:text-neutral-400">
-                 Cette petite application permet aux utilisateurs d'ameliorer leur capacité de saisie sur un clavier. Le jeu propose des mots ou des phrases selon le choix de l'utilisateur tout en affichant le score et donne enfin la possibilité aux utilisateurs de partager leur score
-                     avec leurs amis
+                 Cette petite application permet aux utilisateurs d'ameliorer leur capacité de saisie sur un clavier.
+                     Le jeu propose des mots ou des phrases selon le choix de l'utilisateur tout en affichant le score et donne enfin la possibilité aux utilisateurs de partager leur score
+                     avec ses amis
                  </p>
                  <a target="_blank" className="mt-8 lg:inline-flex flex justify-center items-center gap-x-1 text-sm font-bold bg-[#ff5940] p-4 hover:bg-orange-800 transition duration-300 ease-in-out " href="https://azert-type-js-t266.vercel.app/">
                    COMMENCER LE JEU
