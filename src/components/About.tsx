@@ -25,10 +25,9 @@ function About() {
                  <p className="lg:text-xl text-lg w-full lg:w-md pb-2">Je suis un <span className="text-[#ff5940]">Developpeur Web </span> passionné par le design. Je conçois des maquettes percutantes, des bases de données solides et des sites internet sur mesure, alliant esthétique et performance.</p>
                  <p className="lg:text-xl text-lg w-full lg:w-md pb-2">Je suis toujours en train de développer mes compétences et d'apprendre quelque chose de nouveau. Je suis un homme de contact, un bricoleur, un amoureux de la technologie et des sciences.</p>     
                  <p className="lg:text-xl text-lg w-full lg:w-md">
-                  Je suis toujours en train de développer mes compétences et d'apprendre quelque chose de nouveau. 
-                  J'ai une soif de connaissances et un désir de comprendre comment les choses fonctionnent ; 
-                  je suis un homme de contact, un bricoleur, un amoureux de la technologie et des sciences.
-                </p>            
+                 Je suis animé par une soif de connaissances : j’apprends, j’expérimente, je progresse.
+                 Curieux de nature, j’aime comprendre comment les choses fonctionnent.
+                 </p>
               </div>
             </div>
         </section>
