@@ -8,7 +8,7 @@ function HeroSection() {
        <div className="flex flex-col lg:flex-row items-center justify-between px-6 lg:px-32">
          <div className='text-center lg:text-left flex flex-col items-center lg:items-start'>
             <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl text-outline-white font-black">Je suis</h2>
-            <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl font-black">Devellopeur</h2>
+            <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl font-black">Devellopeur </h2>
             <h2 className="card lg:text-8xl pb-2 text-5xl md:text-6xl font-black text-[#ff5940]">Fullstack</h2>
             <p className="lg:w-[60%] md:w-[70%] w-64 lg:mx-0 lg:text-left mx-auto text-center lg:text-xl pt-4">Entre logique et créativité, je bâtis des interfaces qui parlent autant aux humains qu’aux machines</p>
             <div className="pt-12 flex flex-col items-center lg:flex-row lg:items-center lg:justify-start lg:gap-4">

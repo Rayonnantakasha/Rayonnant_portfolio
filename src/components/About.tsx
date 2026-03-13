@@ -22,7 +22,7 @@ function About() {
             </div>
               <div className="bg-[#38464B] lg:text-start lg:w-[40%] w-full lg:p-6 p-2 shadow-xl backdrop-opacity-60">
                  <p className="lg:text-xl text-lg pb-2">Salut ! Je suis  Rayonnant  Nyonsa</p>
-                 <p className="lg:text-xl text-lg w-full lg:w-md pb-2">Je suis <span className="text-[#ff5940]">Developpeur Web FullStack</span> Passionné par le web, je conçois des maquettes percutantes, des bases de données solides et des sites internet sur mesure, alliant esthétique et performance.</p>
+                 <p className="lg:text-xl text-lg w-full lg:w-md pb-2">Je suis un <span className="text-[#ff5940]">Developpeur Web </span> passionné par le design. Je conçois des maquettes percutantes, des bases de données solides et des sites internet sur mesure, alliant esthétique et performance.</p>
                  <p className="lg:text-xl text-lg w-full lg:w-md pb-2">Je suis toujours en train de développer mes compétences et d'apprendre quelque chose de nouveau. Je suis un homme de contact, un bricoleur, un amoureux de la technologie et des sciences.</p>     
                  <p className="lg:text-xl text-lg w-full lg:w-md">
                   Je suis toujours en train de développer mes compétences et d'apprendre quelque chose de nouveau. 
