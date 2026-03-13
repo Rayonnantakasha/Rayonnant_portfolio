@@ -22,7 +22,7 @@ function About() {
             </div>
               <div className="bg-[#38464B] lg:text-start lg:w-[40%] w-full lg:p-6 p-2 shadow-xl backdrop-opacity-60">
                  <p className="lg:text-xl text-lg pb-2">Salut ! C'est moi Rayonnant  Nyonsa</p>
-                 <p className="lg:text-xl text-lg w-full lg:w-md pb-2"><span className="text-[#ff5940]">Developpeur Web FullStack</span> passionné par tout ce qui touche au frontend au design et à la technologie. Je conçois des interfaces à la fois percutantes, intuitives et sur mesure, où esthétique rime avec performance.</p>
+                 <p className="lg:text-xl text-lg w-full lg:w-md pb-2"><span className="text-[#ff5940]">Developpeur Web FullStack</span> passionné par tout ce qui touche au frontend, au design et à la technologie. Je conçois des interfaces à la fois percutantes, intuitives et sur mesure, où esthétique rhime avec performance.</p>
                  <p className="lg:text-xl text-lg w-full lg:w-md pb-2">Créatif dans l’âme, je donne vie à des maquettes modernes et épurées. Avec une bonne maitrise côté back, je structure des bases de données fiables et performantes développant ainsi des expériences web qui marquent et engagent</p>     
                  <p className="lg:text-xl text-lg w-full lg:w-md">
                  Je suis animé par une soif de connaissances : j’apprends, j’expérimente, je progresse.
