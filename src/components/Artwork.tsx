@@ -17,9 +17,9 @@ function Artwork() {
                  </h3>
                  <p className="mt-2 lg:text-left text-center text-gray-100 dark:text-neutral-400">
                  Dans le cadre de mon projet chef-d'œuvre de fin d’étude, 
-                 j’ai conçu et développé un clone de Twitter (actuellement appelé X) en utilisant le framework JavaScript. 
+                 j’ai conçu et développé un clone de Twitter (actuellement appelé X) en utilisant le framework AdonisJS de JavaScript. 
                  Le site intègre les principales fonctionnalités de la plateforme originale, notamment : La création de compte et l’authentification sécurisée, La publication de tweets, avec ou sans image,
-                 La possibilité de liker et commenter les publications, La modification du profil utilisateur et de la biographie.
+                 La possibilité de liker et commenter les publications, La modification  du profil et de la biographie de l'utilisateur.
                  </p>
                  <a target="_blank" className="mt-8 lg:inline-flex flex justify-center items-center gap-x-1 text-sm font-bold bg-[#ff5940] p-4 hover:bg-orange-800 transition duration-300 ease-in-out " href="http://tweeter-clone-with-adonis-js-ray-production.up.railway.app">
                    VISITER LE SITE
